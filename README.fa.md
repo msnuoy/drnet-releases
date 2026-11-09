@@ -103,10 +103,10 @@
   <img src="assets/screens/masque.webp" width="24%" alt="ماسک">
 </p>
 <p align="center" dir="rtl">
-  <img src="assets/screens/argo.jpg" width="24%" alt="آرگو">
-  <img src="assets/screens/fenix.jpg" width="24%" alt="فنیکس">
-  <img src="assets/screens/vpngate.jpg" width="24%" alt="وی‌پی‌ان گیت">
-  <img src="assets/screens/mami.jpg" width="24%" alt="مامی">
+  <img src="assets/screens/argo.webp" width="18%" alt="آرگو">
+  <img src="assets/screens/fenix.webp" width="18%" alt="فنیکس">
+  <img src="assets/screens/vpngate.webp" width="18%" alt="وی‌پی‌ان گیت">
+  <img src="assets/screens/mami.webp" width="18%" alt="مامی">
 </p>
 
 ### ابزارهای بدون سرور

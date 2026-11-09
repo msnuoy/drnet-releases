@@ -96,10 +96,10 @@ Built in, nothing else to install. Pick one, or let Diagnosis tell you which wor
   <img src="assets/screens/masque.webp" width="24%" alt="MASQUE">
 </p>
 <p align="center">
-  <img src="assets/screens/argo.jpg" width="24%" alt="Argo">
-  <img src="assets/screens/fenix.jpg" width="24%" alt="Fenix">
-  <img src="assets/screens/vpngate.jpg" width="24%" alt="VPN Gate">
-  <img src="assets/screens/mami.jpg" width="24%" alt="Mami">
+  <img src="assets/screens/argo.webp" width="18%" alt="Argo">
+  <img src="assets/screens/fenix.webp" width="18%" alt="Fenix">
+  <img src="assets/screens/vpngate.webp" width="18%" alt="VPN Gate">
+  <img src="assets/screens/mami.webp" width="18%" alt="Mami">
 </p>
 
 ### Tools that need no server
