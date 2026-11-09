@@ -14,7 +14,7 @@
 
 When a site won't open, nobody tells you why. Is it filtering? Sanctions? The connection itself?
 
-**Dr.Net** tells you exactly that, then fixes it with one tap. It checks sites and apps step by step, finds the route that really works on *your* network, and connects you through it: seven built-in connection methods, your own configs, and tools that need no server at all. It is free, shows no ads, and collects nothing about you.
+**Dr.Net** tells you exactly that, then fixes it with one tap. It checks sites and apps step by step, finds the route that really works on *your* network, and connects you through it: eleven built-in connection methods, your own configs, and tools that need no server at all. It is free, shows no ads, and collects nothing about you.
 
 <p align="center">
   <a href="https://github.com/msnuoy/drnet-releases/releases/latest"><img src="https://img.shields.io/badge/Download-latest%20version-0f9d76?style=for-the-badge&logo=android&logoColor=white" alt="Download the latest version"></a>
@@ -66,7 +66,7 @@ Get the newest APK from **[Releases](https://github.com/msnuoy/drnet-releases/re
 </p>
 <p align="center"><sub>Sites checked on Irancell · One site, layer by layer, with the fix</sub></p>
 
-### Seven connection methods
+### Eleven connection methods
 
 Built in, nothing else to install. Pick one, or let Diagnosis tell you which works on your network.
 
@@ -79,6 +79,10 @@ Built in, nothing else to install. Pick one, or let Diagnosis tell you which wor
 | **WARP-on-WARP** | A two-layer WARP tunnel |
 | **WireGuard** | A fast, direct WireGuard tunnel |
 | **MASQUE** | HTTP/3 and HTTP/2 transport over Cloudflare |
+| **Argo** | Argo's own bridges, falcons and public servers |
+| **Fenix** | Firefox's free VPN, with 50 GB per account and servers in 30+ countries |
+| **VPN Gate** | Volunteer-run relays around the world, with country choice |
+| **Mami** | Mami's catalog, a phone-specific bridge, and Lion |
 
 <p align="center">
   <img src="assets/screens/lantern.webp" width="24%" alt="Lantern">
@@ -90,6 +94,12 @@ Built in, nothing else to install. Pick one, or let Diagnosis tell you which wor
   <img src="assets/screens/warp-on-warp.webp" width="24%" alt="WARP-on-WARP">
   <img src="assets/screens/wireguard.webp" width="24%" alt="WireGuard">
   <img src="assets/screens/masque.webp" width="24%" alt="MASQUE">
+</p>
+<p align="center">
+  <img src="assets/screens/argo.jpg" width="24%" alt="Argo">
+  <img src="assets/screens/fenix.jpg" width="24%" alt="Fenix">
+  <img src="assets/screens/vpngate.jpg" width="24%" alt="VPN Gate">
+  <img src="assets/screens/mami.jpg" width="24%" alt="Mami">
 </p>
 
 ### Tools that need no server
